@@ -1276,7 +1276,7 @@ msgstr ""
 
 msgctxt "#31640"
 msgid "Color"
-msgstr "צסע"
+msgstr "צבע"
 
 msgctxt "#31641"
 msgid "[B]Library Data Provider[/B] addon is needed to add more widgets."
