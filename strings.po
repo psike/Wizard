@@ -1068,7 +1068,7 @@ msgstr ""
 
 msgctxt "#31588"
 msgid "Set folder path where music files are located."
-msgstr ""
+msgstr "הגדר מיקום תיקיה בה נמצאים קבצי המוזיקה"
 
 msgctxt "#31589"
 msgid "Show albums CDArt on albums infos."
@@ -1076,7 +1076,7 @@ msgstr ""
 
 msgctxt "#31590"
 msgid "Set folder path where music files are located."
-msgstr ""
+msgstr "הגדר מיקום תיקיה בה נמצאים קבצי המוזיקה"
 
 msgctxt "#31591"
 msgid "Set primary color for focused items."
@@ -1088,7 +1088,7 @@ msgstr ""
 
 msgctxt "#31593"
 msgid "Reset main color to default."
-msgstr ""
+msgstr "אפס צבע ראשי"
 
 msgctxt "#31594"
 msgid "Set a color for each tile of home bar menu via customisation home menu."
@@ -1104,11 +1104,11 @@ msgstr ""
 
 msgctxt "#31597"
 msgid "Configure various functions of the power menu."
-msgstr ""
+msgstr "הגדר פעולות שונות"
 
 msgctxt "#31598"
 msgid "Set icon to be displayed when loading."
-msgstr ""
+msgstr "בחר אייקונים להצגה בזמן טעינה"
 
 msgctxt "#31599"
 msgid "Show an opaque background on header."
@@ -1116,11 +1116,11 @@ msgstr ""
 
 msgctxt "#31600"
 msgid "Select genres icons addon."
-msgstr ""
+msgstr "ב"
 
 msgctxt "#31601"
 msgid "Select a photo, a video or a music to run when Kodi starting."
-msgstr ""
+msgstr "בחר תמונה, וידאו או שיר לניגון כאשר קודי מופעל"
 
 msgctxt "#31602"
 msgid "Show debug infos on interface."
@@ -1136,7 +1136,7 @@ msgstr "שמור את כל הגדרות הסקין"
 
 msgctxt "#31605"
 msgid "Restore all skin settings with backup."
-msgstr ""
+msgstr "שחזר את כל הגדרות הסקין באמצעות גיבוי"
 
 msgctxt "#31606"
 msgid "Reset all default skin settings. [B]CAUTION ![/B] This will replace all the current settings."
@@ -1144,7 +1144,7 @@ msgstr ""
 
 msgctxt "#31607"
 msgid "Necessary Addons"
-msgstr ""
+msgstr "תוספים נחוצים"
 
 msgctxt "#31608"
 msgid "This category contains all necessary addons so that the skin works correctly."
@@ -1152,7 +1152,7 @@ msgstr ""
 
 msgctxt "#31609"
 msgid "must be manually installed"
-msgstr ""
+msgstr "חייב להיות מותקן ידנית"
 
 msgctxt "#31610"
 msgid "[B]Image Resource Select Addon[/B] addon is needed to select addons (genres icons, studios icons, weather icons, etc...)."
@@ -1212,15 +1212,15 @@ msgstr ""
 
 msgctxt "#31624"
 msgid "Recently Played Episodes"
-msgstr ""
+msgstr "פרקים שנוגנו לאחרונה"
 
 msgctxt "#31625"
 msgid "Recently Played Movies"
-msgstr ""
+msgstr "סרטים שנוגנו לאחרונה"
 
 msgctxt "#31626"
 msgid "Recently Watched TV Shows"
-msgstr ""
+msgstr "סדרות שנצפו לאחרונה"
 
 msgctxt "#31627"
 msgid "Fanarts transparency"
@@ -1248,11 +1248,11 @@ msgstr ""
 
 msgctxt "#31633"
 msgid "Weather icons"
-msgstr ""
+msgstr "אייקוני מזג אויר"
 
 msgctxt "#31634"
 msgid "Select weather icons addon."
-msgstr ""
+msgstr "בחר אייקוני מזג אויר"
 
 msgctxt "#31635"
 msgid "Music visualisation background"
@@ -1264,7 +1264,7 @@ msgstr ""
 
 msgctxt "#31637"
 msgid "Album wall"
-msgstr ""
+msgstr "קיר אלבומים"
 
 msgctxt "#31638"
 msgid "Hide all playback infos on music visualisation background."
@@ -1276,7 +1276,7 @@ msgstr ""
 
 msgctxt "#31640"
 msgid "Color"
-msgstr ""
+msgstr "צסע"
 
 msgctxt "#31641"
 msgid "[B]Library Data Provider[/B] addon is needed to add more widgets."
@@ -1288,7 +1288,7 @@ msgstr ""
 
 msgctxt "#31643"
 msgid "Big posters"
-msgstr ""
+msgstr "פוסטרים גדולים"
 
 msgctxt "#31644"
 msgid "Frames"
@@ -1296,11 +1296,11 @@ msgstr ""
 
 msgctxt "#31645"
 msgid "Media Infos 1"
-msgstr ""
+msgstr "פרטי מדיה 1"
 
 msgctxt "#31646"
 msgid "Infos List 2"
-msgstr ""
+msgstr "רשימת מידע 2"
 
 msgctxt "#31647"
 msgid "Thumbs"
@@ -1308,27 +1308,27 @@ msgstr ""
 
 msgctxt "#31648"
 msgid "Hide infos"
-msgstr ""
+msgstr "הסתר מידע"
 
 msgctxt "#31649"
 msgid "Debug grid"
-msgstr ""
+msgstr "רשת ניפוי באגים"
 
 msgctxt "#31650"
 msgid "Show debug grid on interface."
-msgstr ""
+msgstr "הצג רשת ניפוי באגים"
 
 msgctxt "#31651"
 msgid "Posters"
-msgstr ""
+msgstr "פוסטרים"
 
 msgctxt "#31652"
 msgid "View"
-msgstr ""
+msgstr "תצוגה"
 
 msgctxt "#31653"
 msgid "Text color"
-msgstr ""
+msgstr "צבע טקסט"
 
 msgctxt "#31654"
 msgid "Enable individual text color for each tile in home customisation"
@@ -1356,35 +1356,35 @@ msgstr ""
 
 msgctxt "#31660"
 msgid "Reset secondary color to default"
-msgstr ""
+msgstr "אפס צבע משנה"
 
 msgctxt "#31661"
 msgid "Reset secondary color to default."
-msgstr ""
+msgstr "אפס צבע משנה"
 
 msgctxt "#31662"
 msgid "Reset text color to default"
-msgstr ""
+msgstr "אפס צבע טקסט"
 
 msgctxt "#31663"
 msgid "Reset text color to default."
-msgstr ""
+msgstr "אפס צבע טקסט"
 
 msgctxt "#31664"
 msgid "Squared tiles with rounded corners"
-msgstr ""
+msgstr "אריחים מרובעים עפ פינות מעוגלות"
 
 msgctxt "#31665"
 msgid "Empty rounded tiles"
-msgstr ""
+msgstr "אריחים ריקים מעוגלים"
 
 msgctxt "#31666"
 msgid "Empty squared tiles"
-msgstr ""
+msgstr "אריחים ריקים מרובעים"
 
 msgctxt "#31667"
 msgid "Empty squared tiles with rounded corners"
-msgstr ""
+msgstr "אריחים ריקים עם פינות מעוגלות"
 
 msgctxt "#31668"
 msgid "Empty beveled tiles"
@@ -1468,7 +1468,7 @@ msgstr ""
 
 msgctxt "#31688"
 msgid "Sets a protection password for menu items."
-msgstr ""
+msgstr "הגדר הגנת סיסמא עבור תפריטים"
 
 msgctxt "#31689"
 msgid "Sets duration white menu items will be available after entering password."
@@ -1476,15 +1476,15 @@ msgstr ""
 
 msgctxt "#31690"
 msgid "Password protection"
-msgstr ""
+msgstr "הגנת סיסמא"
 
 msgctxt "#31691"
 msgid "Password protection for menu items"
-msgstr ""
+msgstr "הגנת סיסמא עבור פרטי תפריט"
 
 msgctxt "#31692"
 msgid "Password has been successfully set !"
-msgstr ""
+msgstr "הסיסמא הוגדרה בהצלחה"
 
 msgctxt "#31693"
 msgid "Accessibility duration for menu items"
@@ -1492,51 +1492,51 @@ msgstr ""
 
 msgctxt "#31694"
 msgid "Password protected content"
-msgstr ""
+msgstr "תוכן מוגן בסיסמא"
 
 msgctxt "#31695"
 msgid "Press [B]Enter[/B] and insert password."
-msgstr ""
+msgstr "לחץ [B]Enter[/B] והכנס סיסמא"
 
 msgctxt "#31696"
 msgid "Incorrect password ! Please Retry."
-msgstr ""
+msgstr "סיסמא שגויה! נסה שוב"
 
 msgctxt "#31697"
 msgid "Correct password ! This menu is now available for"
-msgstr ""
+msgstr "סיסמא נכונה! התפריט כעת זמין"
 
 msgctxt "#31698"
 msgid "minute(s)"
-msgstr ""
+msgstr "דקות"
 
 msgctxt "#31699"
 msgid "Enable day/night color themes"
-msgstr ""
+msgstr "אפשר ערכות נושא ליום/לילה"
 
 msgctxt "#31700"
 msgid "Theme to use at day time"
-msgstr ""
+msgstr "ערכת נושא לשימוש ביום"
 
 msgctxt "#31701"
 msgid "Theme to use at night time"
-msgstr ""
+msgstr "ערכת נושא לשימוש בלילה"
 
 msgctxt "#31702"
 msgid "every day at"
-msgstr ""
+msgstr "כל יום ב"
 
 msgctxt "#31703"
 msgid "Turns automatically change color theme based on day and night."
-msgstr ""
+msgstr "הפעל מעבר אוטומטי בין ערכות נושא על פי זמן היום"
 
 msgctxt "#31704"
 msgid "Selects the theme to use on day."
-msgstr ""
+msgstr "בחר ערכת נושא לשימוש ביום"
 
 msgctxt "#31705"
 msgid "Selects the theme to use on night."
-msgstr ""
+msgstr "בחר ערכת נושא לשימוש בלילה"
 
 msgctxt "#31706"
 msgid "Create and manage all color themes."
@@ -1544,7 +1544,7 @@ msgstr ""
 
 msgctxt "#31707"
 msgid "Protect home menu items with password"
-msgstr ""
+msgstr "הגן על תפריט הבית "
 
 msgctxt "#31708"
 msgid "Protect home menu items with password. Protection of each item is performed in [B]Customize Home Menu[/B]."
@@ -1552,11 +1552,11 @@ msgstr ""
 
 msgctxt "#31709"
 msgid "Icons and texts only"
-msgstr ""
+msgstr "אייקונים וטקסט בלבד"
 
 msgctxt "#31710"
 msgid "Show infos when video is paused"
-msgstr ""
+msgstr "הצג פרטים כאשר הוידאו מושהה"
 
 msgctxt "#31711"
 msgid "Show infos panel when the video is paused."
@@ -1564,23 +1564,23 @@ msgstr ""
 
 msgctxt "#31712"
 msgid "second(s)"
-msgstr ""
+msgstr "שניות"
 
 msgctxt "#31713"
 msgid "Time to display"
-msgstr ""
+msgstr "זמן להצגה"
 
 msgctxt "#31714"
 msgid "Sets time before synopsis display in the video library."
-msgstr ""
+msgstr "הגדר משך זמן לפני תצוגת פרטי הסרט בספריית הוידאו"
 
 msgctxt "#31715"
 msgid "Hide tile"
-msgstr ""
+msgstr "הסתר אריח"
 
 msgctxt "#31716"
 msgid "Hide header tile."
-msgstr ""
+msgstr "הסתר אריח עליון"
 
 msgctxt "#31717"
 msgid "Show indicators with widget infos"
@@ -1592,31 +1592,31 @@ msgstr ""
 
 msgctxt "#31719"
 msgid "Info displayed for episodes"
-msgstr ""
+msgstr "תצוגת מידע אודות פרקים"
 
 msgctxt "#31720"
 msgid "Total Episodes"
-msgstr ""
+msgstr "סך הכל פרקים"
 
 msgctxt "#31721"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "פרקים שלא נצפו"
 
 msgctxt "#31722"
 msgid "Watched Episodes"
-msgstr ""
+msgstr "פרקים שנצפו"
 
 msgctxt "#31723"
 msgid "Episodes"
-msgstr ""
+msgstr "פרקים"
 
 msgctxt "#31724"
 msgid "Unwatched"
-msgstr ""
+msgstr "לא נצפה"
 
 msgctxt "#31725"
 msgid "Watched"
-msgstr ""
+msgstr "נצפה"
 
 msgctxt "#31726"
 msgid "Sets info displayed on TV shows and seasons. [[B]Total Episodes[/B]] will show total number of episodes for a TV shows or a season, [[B]Unwatched Episodes[/B]] will show number of episodes not viewed for a TV shows or a season, [[B]Watched Episodes[/B]] will show number of episodes already viewed for a TV shows or a season."
@@ -1640,15 +1640,15 @@ msgstr ""
 
 msgctxt "#31731"
 msgid "Watched for the last time on"
-msgstr ""
+msgstr "נצפה בפעם האחרונה"
 
 msgctxt "#31732"
 msgid "Aired for the last time on"
-msgstr ""
+msgstr "שודר בפעם האחרונה"
 
 msgctxt "#31733"
 msgid "Hide Next Aired infos"
-msgstr ""
+msgstr "הסתר מידע על פרק הבא"
 
 msgctxt "#31734"
 msgid "Indicators"
@@ -1656,7 +1656,7 @@ msgstr ""
 
 msgctxt "#31735"
 msgid "All"
-msgstr ""
+msgstr "הכל"
 
 msgctxt "#31736"
 msgid "Hide unwatched indicator only"
@@ -1664,15 +1664,15 @@ msgstr ""
 
 msgctxt "#31737"
 msgid "Hub Image"
-msgstr ""
+msgstr "תמונת מרכז מידע"
 
 msgctxt "#31738"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "סרטים שלא נצפו"
 
 msgctxt "#31739"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "פרקים שלא נצפו"
 
 msgctxt "#31740"
 msgid "Pixelated"
@@ -1696,7 +1696,7 @@ msgstr ""
 
 msgctxt "#31745"
 msgid "Logos list"
-msgstr ""
+msgstr "תצוגת לוגו"
 
 msgctxt "#31746"
 msgid "Hide bottom bar"
@@ -1720,11 +1720,11 @@ msgstr ""
 
 msgctxt "#31751"
 msgid "Hide submenus icons"
-msgstr ""
+msgstr "הסתר אייקוני תפריטי משנה"
 
 msgctxt "#31752"
 msgid "Hide submenus icons."
-msgstr ""
+msgstr "הסתר אייקוני תפריטי משנה"
 
 msgctxt "#31753"
 msgid "Main color of indicators"
@@ -1744,20 +1744,20 @@ msgstr ""
 
 msgctxt "#31757"
 msgid "Submenus style"
-msgstr "סגנון תפריט משנה"
+msgstr "סגנון תפריטי משנה"
 
 msgctxt "#31758"
 msgid "Set submenus style."
-msgstr ""
+msgstr "קבע סגנון תפריטי משנה
 
 msgctxt "#31759"
 msgid "Large"
-msgstr ""
+msgstr "גדול"
 
 msgctxt "#31760"
 msgid "Small"
-msgstr ""
+msgstr "קטן"
 
 msgctxt "#31761"
 msgid "Allow widgets reloading."
-msgstr ""
+msgstr "אפשר טעינה מחדש של ווידג'טים"
